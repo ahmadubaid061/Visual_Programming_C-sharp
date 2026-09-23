@@ -1,0 +1,7 @@
+D:\university data\6th semester data\Visual Programming\01lab\project1\bin\Debug\project1.exe.config
+D:\university data\6th semester data\Visual Programming\01lab\project1\bin\Debug\project1.exe
+D:\university data\6th semester data\Visual Programming\01lab\project1\bin\Debug\project1.pdb
+D:\university data\6th semester data\Visual Programming\01lab\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+D:\university data\6th semester data\Visual Programming\01lab\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+D:\university data\6th semester data\Visual Programming\01lab\project1\obj\Debug\project1.exe
+D:\university data\6th semester data\Visual Programming\01lab\project1\obj\Debug\project1.pdb
