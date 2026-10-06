@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\university data\\6th semester data\\Visual Programming\\01lab\\project1\\",
+  "WorkspaceRootPath": "D:\\university data\\6th semester data\\Visual Programming\\Visual_Programming_C-sharp\\01lab visual Studio setup\\project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4C676A9-67A8-45FC-94FB-A3D93F118DA2}|project1.csproj|d:\\university data\\6th semester data\\visual programming\\01lab\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4C676A9-67A8-45FC-94FB-A3D93F118DA2}|project1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmad\\AppData\\Local\\Microsoft\\VisualStudio\\18.0_527b1074\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\university data\\6th semester data\\Visual Programming\\Visual_Programming_C-sharp\\01lab visual Studio setup\\project1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +22,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\university data\\6th semester data\\Visual Programming\\01lab\\project1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\university data\\6th semester data\\Visual Programming\\01lab\\project1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T06:25:34.81Z",
+              "Title": "settings.json",
+              "DocumentMoniker": "C:\\Users\\ahmad\\AppData\\Local\\Microsoft\\VisualStudio\\18.0_527b1074\\settings.json",
+              "ToolTip": "C:\\Users\\ahmad\\AppData\\Local\\Microsoft\\VisualStudio\\18.0_527b1074\\settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T05:03:55.125Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\university data\\6th semester data\\Visual Programming\\Visual_Programming_C-sharp\\01lab visual Studio setup\\project1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\university data\\6th semester data\\Visual Programming\\Visual_Programming_C-sharp\\01lab visual Studio setup\\project1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T06:25:34.81Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

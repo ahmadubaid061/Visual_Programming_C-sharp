@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Lab3Task1_Calculator/Lab3Task1_Calculator.csproj" />
+  <Project Path="Lab3Task2_StringFunctions/Lab3Task2_StringFunctions.csproj" />
+  <Project Path="Lab3task4_AmstrongNumbers/Lab3task4_AmstrongNumbers.csproj" />
+</Solution>
