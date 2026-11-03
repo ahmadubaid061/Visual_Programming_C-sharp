@@ -138,7 +138,7 @@
             this.textBox1.BackColor = System.Drawing.Color.WhiteSmoke;
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.ForeColor = System.Drawing.SystemColors.GrayText;
+            this.textBox1.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.textBox1.Location = new System.Drawing.Point(64, 174);
             this.textBox1.Margin = new System.Windows.Forms.Padding(10, 10, 3, 3);
             this.textBox1.Name = "textBox1";
@@ -152,7 +152,7 @@
             this.textBox2.BackColor = System.Drawing.Color.WhiteSmoke;
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.textBox2.ForeColor = System.Drawing.SystemColors.GrayText;
+            this.textBox2.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.textBox2.Location = new System.Drawing.Point(405, 174);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(258, 37);
@@ -164,7 +164,7 @@
             this.textBox3.BackColor = System.Drawing.Color.WhiteSmoke;
             this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.textBox3.ForeColor = System.Drawing.SystemColors.GrayText;
+            this.textBox3.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.textBox3.Location = new System.Drawing.Point(64, 286);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(599, 37);
@@ -178,12 +178,12 @@
             this.textBox4.BackColor = System.Drawing.Color.WhiteSmoke;
             this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.textBox4.ForeColor = System.Drawing.SystemColors.GrayText;
+            this.textBox4.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.textBox4.Location = new System.Drawing.Point(64, 388);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(599, 37);
             this.textBox4.TabIndex = 11;
-            this.textBox4.Text = "  123@school";
+            this.textBox4.Text = "  **********";
             this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // textBox5
@@ -191,12 +191,12 @@
             this.textBox5.BackColor = System.Drawing.Color.WhiteSmoke;
             this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.textBox5.ForeColor = System.Drawing.SystemColors.GrayText;
+            this.textBox5.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.textBox5.Location = new System.Drawing.Point(64, 497);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(599, 37);
             this.textBox5.TabIndex = 12;
-            this.textBox5.Text = "  123@school";
+            this.textBox5.Text = "  **********";
             this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // label8
